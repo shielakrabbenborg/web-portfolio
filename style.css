@@ -47,7 +47,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 50s;
+    transition: all 30s;
 }
 
 .spinner-border {
@@ -168,7 +168,7 @@ html, body {
 
 .landing-text h3 {
     font-size: 3m;
-    font-weight: 70000;
+    font-weight: 700;
     color: #fff;
     text-shadow: .1rem .1rem .8rem black;
     text-transform: uppercase;
