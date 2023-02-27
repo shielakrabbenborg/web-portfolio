@@ -197,6 +197,13 @@ html, body {
 
 /*ABOUT ME SECTION*/
 
+.job-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ee9ca7!important;
+
+}
+
 .title {
     font-weight: 700;
     text-transform: uppercase;
