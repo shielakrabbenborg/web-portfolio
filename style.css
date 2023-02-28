@@ -47,7 +47,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 30s;
+    transition: all 10s;
 }
 
 .spinner-border {
